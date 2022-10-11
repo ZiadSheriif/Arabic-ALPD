@@ -1,0 +1,19 @@
+ requests
+ LXML
+ tqdm
+ absl
+ pytesseract
+ pillow
+ easydict
+ pandas
+ glob
+ numpy
+ skimage
+ cv2
+ collections
+ imutils
+ tensorflow
+ matplotlib
+ torch
+ torch vision.models
+ torch vision.transforms
